@@ -1,0 +1,2 @@
+public class par2 {
+}
