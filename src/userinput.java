@@ -3,6 +3,14 @@ import java.util.*;
 
 public class userinput {
 
+
+
+
+
+
+
+
+
     public static void main(String[] args){
 
       Scanner st = new Scanner(System.in);
